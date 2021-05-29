@@ -1,6 +1,4 @@
-# Machine_Learning_Project_2
-
-Data science project conducting complete analysis of online shopping behavior.
+# Data science project conducting complete analysis of online shopping behavior
 
 This project is based on "Online Shoppers Purchasing Intention Dataset Data Set" https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
